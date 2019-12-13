@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dear diary
-lang: en
+lang: it
 ref: Dear diary
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: To be
-subtitle: ... or not to be?
-lang: en
+title: Essere
+subtitle: ... o non essere?
+lang: it
 ref: To be
 tags: [books, shakespeare, test]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
-lang: en
+title: primo post!
+lang: it
 ref: First post!
 image: /img/hello_world.jpeg
 ---

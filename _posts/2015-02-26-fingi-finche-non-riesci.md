@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
+title: gingi finchè non riesci
 subtitle: Excerpt from Soulshaping by Jeff Brown
-lang: en
+lang: it
 ref: Flake it till you make it
 bigimg: /img/path.jpg
 tags: [books, test]
