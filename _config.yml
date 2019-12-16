@@ -1,7 +1,16 @@
 # --- General options --- #
 
-# Name of website
+# Name of website 
 title: My local dev test
+title-locale: 
+
+    it: 
+      url: ""
+
+    en: 
+      url: "index_en"
+
+
 
 # Short description of your site
 description: a test on local docker
@@ -21,13 +30,29 @@ description: a test on local docker
 # List of links in the navigation bar
 navbar-links:
 
-  Calendario: "Calendario"
+  it:
 
-  Associazione:
-    - Composizione: "Composizione"
-    - Missione: "Missione"
-    - Valori: "Valori"
-    - Statuto: "Statuto"
+   Calendario: "Calendario"
+
+   Associazione: 
+     - Composizione: "Composizione"
+     - Missione: "Missione"
+     - Valori: "Valori"
+     - Statuto: "Statuto"
+
+  en:
+
+   Calendario: "Calendar"
+
+   Association: 
+     - Composizione: "Composition"
+     - Missione: "Mission"
+     - Valori: "Values"
+     - Statuto: "Statute"
+
+
+
+
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -258,7 +283,7 @@ prose:
 
 plugins:
  # - jekyll-paginate
-  - jekyll-sitemap
+ # - jekyll-sitemap
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189

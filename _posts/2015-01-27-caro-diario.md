@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dear diary
+title: Caro Diario
 lang: it
 ref: Dear diary
 ---

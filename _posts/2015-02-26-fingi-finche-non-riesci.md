@@ -1,6 +1,6 @@
 ---
 layout: post
-title: gingi finchè non riesci
+title: fingi finchè non riesci
 subtitle: Excerpt from Soulshaping by Jeff Brown
 lang: it
 ref: Flake it till you make it
