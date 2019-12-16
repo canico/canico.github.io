@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Composizione
+title: Composition
 subtitle: Chi siamo e chi collabora con noi
-lang: it
+lang: en
 ref: Comp
 ---
 

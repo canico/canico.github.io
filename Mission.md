@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Missione
+title: Mission
 subtitle: Cosa ci proponiamo di fare
-lang: it
-
+lang: en
 ref: miss
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Statuto
+title: Statute
 subtitle: Perche potresti aver vogli di conoscerci
-lang: it
+lang: en
 ref: stat
 ---
 

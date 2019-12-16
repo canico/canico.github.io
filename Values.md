@@ -2,7 +2,7 @@
 layout: page
 title: Valori
 subtitle: Perche potresti aver vogli di conoscerci
-lang: it
+lang: en
 ref: val
 ---
 
