@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Valori
-subtitle: Perche potresti aver vogli di conoscerci
+title: Values
+subtitle: what do we belive in
 lang: en
 ref: val
 ---

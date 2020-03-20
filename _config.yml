@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website 
-title: My local dev test
+title: proXima
 title-locale: 
 
     it: 
@@ -71,20 +71,109 @@ avatar: "/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#aec6cf" #"#F5F5F5" "#ffd1dc"
+# paletta originale
+#navbar-col: "#aec6cf" #"#F5F5F5" "#ffd1dc"
+#navbar-text-col: "#404040"
+#navbar-children-col: "#F5F5F5"
+#page-col: "#FFFFFF"
+#link-col:  "#008AFF"
+#hover-col: "#0085A1"
+#footer-col: "#F5F5F5"
+#footer-text-col: "#777777"
+#footer-link-col: "#404040"
+
+# paletta indaco
+navbar-col:  "#9F9FE0"
 navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col:  "#008AFF"
+navbar-children-col: "#BCB9FA"
+page-col: "#FDF6F5"
+link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#F5F5F5"
-footer-text-col: "#777777"
+footer-col: "#C5CBD7"
+footer-text-col: "#0D0A08"
 footer-link-col: "#404040"
+
+# paletta torroncino
+#navbar-col:  "#C99267"
+#navbar-text-col: "#19161A"
+#navbar-children-col: "#CCAF87"
+#page-col: "#E4F2F0"
+#link-col: "#008AFF"
+#hover-col: "#0085A1"
+#footer-col: "#C7C9A9"
+#footer-text-col: "#0D0A08"
+#footer-link-col: "#404040" 
+
+#paletta black lagoon 
+#navbar-col:  "#030202"
+#navbar-text-col: "#E3D3CC"
+#navbar-children-col: "#0C0A0D"
+#page-col: "#E8DFD1"
+#link-col: "#008AFF"
+#hover-col: "#EDC4B7"
+#footer-col: "#BDBDBD"
+#footer-text-col: "#0D0A08"
+#footer-link-col: "#404040"
+
+#paletta rossa
+#navbar-col: "#ED7282" #"#C76976"  #"#E63E54" #"#D14F61"
+#navbar-text-col: "#22292B" #"#2E373B" #"#15191F" #"#141208"
+#navbar-children-col: "#E89097"
+#page-col: "#F8ECD0"
+#link-col: "#008AFF"
+#hover-col: "#1D2433"  #"#0A0C0D" #quando passisopra i tasti
+#footer-col: "#FFB59E"
+#footer-text-col: "#0D0A08"
+#footer-link-col: "#404040"
+
+#paletta rossa 1
+#navbar-col:  "#C44747"
+#navbar-text-col: "#11171A"
+#navbar-children-col: "#E69795"
+#page-col: "#F8ECD0"
+#link-col: "#008AFF"
+#hover-col: "#01090A" #1D3240 #quando passisopra i tasti
+#footer-col: "#FFB59E"
+#footer-text-col: "#0D0A08"
+#footer-link-col: "#404040"
+
+# una prova assurda
+#navbar-col:  "#DB183A"
+#navbar-text-col: "#E8CABC"
+#navbar-children-col: "#E67797"
+#page-col: "#E8CABC"
+#link-col: "#008AFF"
+#hover-col: "#FFF5E6" #quando passisopra i tasti
+#footer-col: "#DFACE8"
+#footer-text-col: "#0D0A08"
+#footer-link-col: "#404040"
+
+# paletta vinaccia
+#navbar-col:  "#8C1308"
+#navbar-text-col: "#E8CABC"
+#navbar-children-col: "#F29472"
+#page-col: "#F5CD99"
+#link-col: "#008AFF"
+#hover-col: "#FFF5E6" 
+#footer-col: "#948E74"
+#footer-text-col: "#0D0A08"
+#footer-link-col: "#404040"
+
+#mia paletta
+#navbar-col:  "#8C1308"
+#navbar-text-col: "#E8CABC"
+#navbar-children-col: "#F29472"
+#page-col: "#FFFFFF"
+#link-col: "#008AFF"
+#hover-col: "#FFF5E6" 
+#footer-col: "#948E74"
+#footer-text-col: "#0D0A08"
+#footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
+navbar-img: "/img/arlequine-abstract.jpg" #"/img/dark-abstract.jpg"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
