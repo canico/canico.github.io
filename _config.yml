@@ -32,23 +32,23 @@ navbar-links:
 
   it:
 
-   Calendario: "Calendario"
+   Calendario: "Calendar_IT"
 
    Associazione: 
-     - Composizione: "Composizione"
-     - Missione: "Missione"
-     - Valori: "Valori"
-     - Statuto: "Statuto"
+     - Composizione: "Composition_IT"
+     - Missione: "Mission_IT"
+     - Valori: "Values_IT"
+     - Statuto: "Statute_IT"
 
   en:
 
-   Calendario: "Calendar"
+   Calendario: "Calendar_EN"
 
    Association: 
-     - Composizione: "Composition"
-     - Missione: "Mission"
-     - Valori: "Values"
-     - Statuto: "Statute"
+     - Composizione: "Composition_EN"
+     - Missione: "Mission_EN"
+     - Valori: "Values_EN"
+     - Statuto: "Statute_EN"
 
 
 
@@ -173,7 +173,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/arlequine-abstract.jpg" #"/img/dark-abstract.jpg"
+# navbar-img: "/img/arlequine-abstract.jpg" #"/img/dark-abstract.jpg"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 
@@ -278,7 +278,7 @@ date_format: "%B %-d, %Y"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Rome" #"America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
